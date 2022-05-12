@@ -1,0 +1,14 @@
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.exe
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.deps.json
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.runtimeconfig.json
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.runtimeconfig.dev.json
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.dll
+C:\kpii\programing\лабки\лаба3\laba3 program3\bin\Debug\netcoreapp3.1\laba3 program3.pdb
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.csproj.AssemblyReference.cache
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.GeneratedMSBuildEditorConfig.editorconfig
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.AssemblyInfoInputs.cache
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.AssemblyInfo.cs
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.csproj.CoreCompileInputs.cache
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.dll
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.pdb
+C:\kpii\programing\лабки\лаба3\laba3 program3\obj\Debug\netcoreapp3.1\laba3 program3.genruntimeconfig.cache
