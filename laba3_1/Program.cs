@@ -12,7 +12,7 @@ namespace laba3_program1
             string text="";
             Console.WriteLine("=================================================");
             try { 
-                text = File.ReadAllText(@"C:\\kpii\\programing\\лабки\\лаба3\\laba3 program1\\text_file.txt"); ///зчитуємо текст з файлу
+                text = File.ReadAllText(@"C:\\kpii\\programing\\лабки\\лаба3\\laba3\\laba3_1\\text_file.txt"); ///зчитуємо текст з файлу
             }
             catch (Exception e)
             {
@@ -23,14 +23,14 @@ namespace laba3_program1
             Console.WriteLine("Input text: \n"); ///виводимо вхідні дані
             Console.WriteLine(text +'\n');
 
-            text = text.ToLower(); //змінюємо на нижній регістр
+            //text = text.ToLower(); //змінюємо на нижній регістр
             char[] separators = new char[] {' ', '.',',','!','?','+','-','*','/','\\','@','^','(',')','='};
             String[] words = text.Split(separators, StringSplitOptions.RemoveEmptyEntries); //розбиваємо текст на слова , не враховуючи пробіли та знаки
  
             List<String> ListWord = new List<String>(); //створюємо колекцію отриманих слів    
             ListWord.AddRange(words);
               
-            List<String> Result = ListWord.Distinct().ToList(); //виключаємо ті ,які повторюються
+            List<String> Result = ListWord.Distinct(StringComparer.CurrentCultureIgnoreCase).ToList(); //виключаємо ті ,які повторюються 
 
             Console.WriteLine("=================================================");
             Console.WriteLine("Words: "+ "\n");                                    //виводимо результат

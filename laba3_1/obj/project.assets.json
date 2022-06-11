@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\kpii\\programing\\лабки\\лаба3\\laba3 program1\\laba3 program1.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Source\\Repos\\sydorenko_oleksandra_laba3\\laba3_1\\laba3 program1.csproj",
       "projectName": "laba3 program1",
-      "projectPath": "C:\\kpii\\programing\\лабки\\лаба3\\laba3 program1\\laba3 program1.csproj",
+      "projectPath": "C:\\Users\\1\\Source\\Repos\\sydorenko_oleksandra_laba3\\laba3_1\\laba3 program1.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\kpii\\programing\\лабки\\лаба3\\laba3 program1\\obj\\",
+      "outputPath": "C:\\Users\\1\\Source\\Repos\\sydorenko_oleksandra_laba3\\laba3_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
